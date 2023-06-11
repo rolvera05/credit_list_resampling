@@ -1,6 +1,4 @@
-# *Module 12 Report Template*
-
-## Overview of the Analysis
+## *Overview of the Analysis*
 
 Based on the instructions and data provided, here's a description of the analysis:
 
