@@ -1,7 +1,5 @@
 ## *Overview of the Analysis*
 
-Based on the instructions and data provided, here's a description of the analysis:
-
 1. **Purpose of the analysis**: The goal of the analysis was to create a machine learning model using logistic regression that can predict whether a loan is high-risk (1) or healthy (0), based on a variety of financial data.
 
 2. **Data on financial information**: The dataset contained loan data such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The aim was to predict the loan status, which was a binary variable indicating whether the loan was high-risk (1) or healthy (0).
